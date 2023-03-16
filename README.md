@@ -1,6 +1,8 @@
 # Python-For-Loops
 A python for loop tutorial by ChatGPT-4 featured on my YouTube Channel.
 
+## [YouTube Video](https://youtu.be/Tjw7cwQZk98)
+
 
 Python for loops are used to iterate over a sequence (such as a list, tuple, or string) and execute a block of code for each item in the sequence. The basic syntax of a for loop in Python is as follows:
 
